@@ -109,6 +109,8 @@ Refer to the datasheets for the pin configuration.
 
 An arduino UNO was used to give the supply voltage Vcc of 5V.
 
+While connecting the ground pins (3 and 8) to the ground use current limiting resistors to prevent the seven segment display from getting burnt.
+
 This is the final image of the circuit:
 
 ![image](https://github.com/user-attachments/assets/7a23be9a-c7fa-480e-86b2-4e31b3f38a91)
