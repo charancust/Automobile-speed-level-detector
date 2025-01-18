@@ -4,7 +4,7 @@ S.No,Product Name,Specification,Quantity
 1,Resistor,220ohm,2
 2,4 to 16 decoder,74HC154,1
 3,Triple input NAND,IC7410,2
-4,Triple input OR,IC7411,1
+4,Triple input AND,IC7411,1
 5,Dual input OR,IC7432,3
 6,Dual input AND,IC7408,2
 7,Hex inverter,IC7404,1
