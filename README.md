@@ -109,6 +109,11 @@ Refer to the datasheets for the pin configuration.
 
 An arduino UNO was used to give the supply voltage Vcc of 5V.
 
+Pin configuration of the common cathode 7 segment display
+
+![image](https://github.com/user-attachments/assets/7558ab17-362e-411a-a97b-f9dc50fe9c23)
+
+
 While connecting the ground pins (3 and 8) to the ground use current limiting resistors to prevent the seven segment display from getting burnt.
 
 This is the final image of the circuit:
