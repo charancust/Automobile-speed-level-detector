@@ -23,7 +23,7 @@ iii) fast, denoted by 'f' which is asserted when the sensor output is between 13
 
    Truth table for the decoder:
 
-       Inputs             Outputs      
+       Inputs                 Outputs      
    
     | S3 | S2 | S1 | S0 | s | e | f |
     |----|----|----|----|---|---|---|
