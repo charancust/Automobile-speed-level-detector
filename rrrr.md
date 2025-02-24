@@ -53,7 +53,8 @@ You need:
 
 ## Steps-to-follow (for windows):
 - Get the source files (either download the files or clone the repository).
-- Go to `arco/apps/common/libraries-example.txt` and replace the path of the libraries used with your system paths.
+- Install the necessary libraries. You can find them in `arco/apps/common/libraries-example.txt`. Use vcpkg to install the libraries.
+- Go to `arco/apps/common/libraries-example.txt` and replace the path of the libraries used with your system paths and rename the file as `libraries.txt`
 
 ## Defining a New Ugen Using FAUST
 Arco implements an automated toolchain allowing unit generators to
