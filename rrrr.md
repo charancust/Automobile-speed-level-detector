@@ -51,6 +51,10 @@ You need:
     on Linux (and it may come with Glib 2.0). You need to define
     INTL_OPT_LIB and INTL_DBG_LIB in `libraries.txt` (see below).
 
+## Steps-to-follow (for windows):
+- Get the source files (either download the files or clone the repository).
+- Go to 'arco/apps/common/libraries-example.txt' and replace the path of the libraries used with your system paths.
+
 ## Defining a New Ugen Using FAUST
 Arco implements an automated toolchain allowing unit generators to
 be specified and (mostly) compiled by FAUST. While FAUST unit
